@@ -31,7 +31,7 @@ To run TypeMaster on your system, follow these steps:
 2. Start typing the displayed text as accurately and quickly as possible.
 3. Repeat to improve your skills!
 
-##Future Enhancements
+## Future Enhancements
 1. Better User Interface
 2. More information about user including words per minute calculation and accuracy
 3. Difficulty levels 
